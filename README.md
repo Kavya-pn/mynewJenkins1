@@ -1,4 +1,3 @@
-test 2
 Test 1
 ## New lIne added
 
